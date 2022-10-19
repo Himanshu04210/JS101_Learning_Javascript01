@@ -1,3 +1,6 @@
 let a=90;
 let b=80;
 let c=a+b;
+console.log(c)
+console.log(a*b)
+console.log(a-b)
